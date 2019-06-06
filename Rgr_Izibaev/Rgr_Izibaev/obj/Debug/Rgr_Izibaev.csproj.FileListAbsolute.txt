@@ -1,0 +1,9 @@
+C:\Users\ADMIN\Desktop\Учеба\Проектирование\Rgr_Izibaev\Rgr_Izibaev\bin\Debug\Rgr_Izibaev.exe.config
+C:\Users\ADMIN\Desktop\Учеба\Проектирование\Rgr_Izibaev\Rgr_Izibaev\bin\Debug\Rgr_Izibaev.exe
+C:\Users\ADMIN\Desktop\Учеба\Проектирование\Rgr_Izibaev\Rgr_Izibaev\bin\Debug\Rgr_Izibaev.pdb
+C:\Users\ADMIN\Desktop\Учеба\Проектирование\Rgr_Izibaev\Rgr_Izibaev\obj\Debug\Rgr_Izibaev.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Учеба\Проектирование\Rgr_Izibaev\Rgr_Izibaev\obj\Debug\Rgr_Izibaev.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Учеба\Проектирование\Rgr_Izibaev\Rgr_Izibaev\obj\Debug\Rgr_Izibaev.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\Учеба\Проектирование\Rgr_Izibaev\Rgr_Izibaev\obj\Debug\Rgr_Izibaev.exe
+C:\Users\ADMIN\Desktop\Учеба\Проектирование\Rgr_Izibaev\Rgr_Izibaev\obj\Debug\Rgr_Izibaev.pdb
+C:\Users\ADMIN\Desktop\Учеба\Проектирование\Rgr_Izibaev\Rgr_Izibaev\obj\Debug\Rgr_Izibaev.Form1.resources
